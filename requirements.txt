@@ -1,0 +1,8 @@
+langchain-groq
+langgraph
+chromadb
+sentence-transformers
+streamlit
+ragas
+langchain-community
+datasets
